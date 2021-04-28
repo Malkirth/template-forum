@@ -34,8 +34,8 @@
 
 | Description | Fonction | Etat |
 |:--------------:|:-------------:|:--------------:|
-| En-tête de page universelle | Elément de page | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) En développement |
-| Accueil, Membre, Discord, Boutique | Menu de navigation header | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) En développement |
+| En-tête de page universelle | Elément de page | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) En développement (29/04/21)|
+| Accueil, Membre, Discord, Boutique | Menu de navigation header | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) En développement (29/04/21)|
 | Shoutbox | Element de page / chat | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
 | Informations, règles, plaintes, demande de déban | Element de page / catégorie | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
 | Mise en forme général | Style | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
