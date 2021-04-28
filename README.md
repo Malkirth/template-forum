@@ -34,8 +34,14 @@
 
 | Description | Fonction | Etat |
 |:--------------:|:-------------:|:--------------:|
-| En-tête de page universelle | Elément de page | en développement |
-| Accueil, Membre, Discord, Boutique | Menu de navigation header | en développement |
+| En-tête de page universelle | Elément de page | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) En développement |
+| Accueil, Membre, Discord, Boutique | Menu de navigation header | ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) En développement |
+| Shoutbox | Element de page / chat | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
+| Informations, règles, plaintes, demande de déban | Element de page / catégorie | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
+| Mise en forme général | Style | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
+| Pied de page universelle | Element de page | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
+| Statistiques du forum, membres en ligne, staff en ligne | Element de page / catégorie | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
+| Système d'utilisateur | Système | ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pas traité |
 | Titre / nom | Page / style / système | Pas traité / en développement / effectué |
 
 ***
