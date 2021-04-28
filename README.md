@@ -34,6 +34,8 @@
 
 | Description | Fonction | Etat |
 |:--------------:|:-------------:|:--------------:|
+| En-tête de page universelle | Elément de page | en développement |
+| Accueil, Membre, Discord, Boutique | Menu de navigation header | en développement |
 | Titre / nom | Page / style / système | Pas traité / en développement / effectué |
 
 ***
